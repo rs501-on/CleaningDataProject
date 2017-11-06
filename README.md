@@ -1,6 +1,8 @@
-# README.md file for Getting and Cleaning Data project
+# README.md file 
 
-## The R script run_analysis.r is used to retrieve the data from the source location and transform it to produce the final "second tidy data set". The variables in the second tidy data set is described in the CodeBook.md. 
+## Getting and Cleaning Data course project script file description
+
+#### The R script run_analysis.r is used to retrieve the data from the source location and transform it to produce the final "second tidy data set". The variables in the second tidy data set is described in the CodeBook.md. 
 
 The steps in the script also described in the comments within the script itself are:
 * If dataset files do not exist locally, download from source and unzip
