@@ -15,4 +15,3 @@ The steps in the script also described in the comments within the script itself 
 * Apply corrected column names back to subsetted data set
 * Generate "second tidy data set" by generating average of all values for each subject and each activity. 
 * Write the "second tidy data set" back to file as "secondTidySet.txt"
-
