@@ -1,4 +1,4 @@
-## This is a script to download data for course project and create a tidy set.
+## This is a script to download data for course project and create a tidy set
 
 # Clear the environment
 rm(list=ls())
@@ -71,7 +71,7 @@ secondTidySet <- aggregate(. ~subjectId + activityId + activityType, activitiesW
 # Sorting data according to subjectId and activityId
 secondTidySet <- secondTidySet[order(secondTidySet$subjectId,secondTidySet$activityId),]
 
-# Writing second tidy data set to file.
+# Writing second tidy data set to file
 write.table(secondTidySet,"secondTidySet.txt",row.names=FALSE)
 
 # End of script
