@@ -9,14 +9,13 @@
 * activityId: Type of different activities by the subject. 
   * Ranges from 1 to 6.
 
-* Descriptive name of activity type
-  * activityType
-    * WALKING
-    * WALKING_UPSTAIRS
-    * WALKING_DOWNSTAIRS
-    * SITTING
-    * STANDING
-    * LAYING
+* activityType: Descriptive name of activity type and the value ranges are:
+  * WALKING
+  * WALKING_UPSTAIRS
+  * WALKING_DOWNSTAIRS
+  * SITTING
+  * STANDING
+  * LAYING
 
 **Average of measurements:**
 * Mean of individual time domain Accelerometer and Gyroscope measurements along X, Y and Z axis' . It also included Mean of the Jerk signals derived from body linear acceleration and angular velocity.
