@@ -105,11 +105,3 @@
   * frequencyBodyGyroscopeJerkMagnitude-StandardDeviation
   * frequencyBodyGyroscopeJerkMagnitude-MeanFrequency
 
-* Descriptive name of activity type
-  * activityType
-    * WALKING
-    * WALKING_UPSTAIRS
-    * WALKING_DOWNSTAIRS
-    * SITTING
-    * STANDING
-    * LAYING
